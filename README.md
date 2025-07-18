@@ -184,9 +184,9 @@
 
   <section class="contact">
     <h2>Contact Us</h2>
-    <p>Email: info@bcapapers.com</p>
+    <p>Email: vishwa@bcapapers.com</p>
     <p>Phone: +91 12345 67890</p>
-    <p>Address: 123 College Street, Edu City, India</p>
+    <p>Address: davanagere </p>
   </section>
 
   <footer>
