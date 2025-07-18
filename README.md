@@ -155,13 +155,13 @@
       <button onclick="filterPapers('year3')">3rd Year</button>
     </div>
     <div class="papers">
-      <a class="paper year1" href="pdfs/computer-fundamentals.pdf" target="_blank">
-        <h4>Computer Fundamentals</h4>
-        <p>1st Year - 2024</p>
+      <a class="paper year1" href="https://drive.google.com/file/d/1UScOeIvwA1v74KIk1CPpbnw-0MiJq8Wk/view?usp=drivesdk" target="_blank">
+        <h4>C program</h4>
+        <p>1st Year -1st sem</p>
       </a>
-      <a class="paper year1" href="pdfs/mathematics-1.pdf" target="_blank">
+      <a class="paper year1" href="https://drive.google.com/file/d/1HqLSjk3zFv5FTRJBpKK3xclDcOdBDGoZ/view?usp=drivesdk" target="_blank">
         <h4>Mathematics I</h4>
-        <p>1st Year - 2023</p>
+        <p>1st Year - 1st sem</p>
       </a>
       <a class="paper year2" href="pdfs/data-structures.pdf" target="_blank">
         <h4>Data Structures</h4>
